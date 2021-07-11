@@ -1,3 +1,4 @@
+import "./styles.css";
 import PlayerName from "../../components/PlayerName";
 
 function ScoreBoard() {
